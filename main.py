@@ -1,0 +1,1 @@
+print("conda config ok")
