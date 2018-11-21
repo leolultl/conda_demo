@@ -1,3 +1,7 @@
+Anaconda packages management demo
+
+------------------------------------------------------------
+
 install anaconda from terminal, graphical interface installer
 https://www.anaconda.com/download/#macos
 
@@ -25,3 +29,8 @@ PyCharm use Anaconda virtual environment
 New Project -> Scientific -> expand Project Interpreter -> choose existing interpreter -> browse to virtual environment lcoation ()
 
 can use virtual environment libraries
+
+run main.py for python interpreter testing
+run models/binary_classification_demo.py for virtual environment's package testing
+
+--------------------------------------------------------
