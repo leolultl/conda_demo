@@ -21,12 +21,12 @@ $ conda install --yes --file requirements.txt
 get virtual environment interpreter location
 $ source activate virtual_environment_name
 $ which python
-
+save python path
 --------------------------------------------------------
 
 PyCharm use Anaconda virtual environment
 
-New Project -> Scientific -> expand Project Interpreter -> choose existing interpreter -> browse to virtual environment lcoation ()
+New Project -> Scientific -> expand Project Interpreter -> choose existing interpreter -> browse to virtual environment location (saved python path)
 
 can use virtual environment libraries
 
